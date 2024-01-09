@@ -18,7 +18,9 @@ make install
 
 ### Deployment
 
-You're now ready to store your code on-chain:
+You're now ready to store your code on-chain. We present below how to deploy your contracts using `kujirad` CLI.
+
+For scripting using Rust, you can use <a href="https://orchestrator.abstract.money/" target="_blank">cw-orchestrator</a>.
 
 ```bash
 cargo run-script optimize
